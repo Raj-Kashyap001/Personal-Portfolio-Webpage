@@ -1,0 +1,47 @@
+@font-face {
+  font-family: Inter;
+  src: url("src/fonts/Inter/Inter-Light.ttf"), format(ttf);
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url("src/fonts/Inter/Inter-Regular.ttf"), format(ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: Inter;
+  src: url("src/fonts/Inter/Inter-Medium.ttf"), format(ttf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: Inter;
+  src: url("src/fonts/Inter/Inter-SemiBold.ttf"), format(ttf);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Prompt;
+  src: url("src/fonts/Prompt/Prompt-Light.ttf"), format(ttf);
+  font-weight: 300;
+}
+@font-face {
+  font-family: Prompt;
+  src: url("src/fonts/Prompt/Prompt-Regular.ttf"), format(ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: Prompt;
+  src: url("src/fonts/Prompt/Prompt-Medium.ttf"), format(ttf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: Prompt;
+  src: url("src/fonts/Prompt/Prompt-SemiBold.ttf"), format(ttf);
+  font-weight: 600;
+}
+@font-face {
+  font-family: Prompt;
+  src: url("src/fonts/Prompt/Prompt-Bold.ttf"), format(ttf);
+  font-weight: 700;
+}
