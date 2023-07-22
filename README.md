@@ -1,2 +1,3 @@
-# Frontend-Projects
-This repo contains my first  frontend work project webpages made with HTML, CSS, ans little bit of Javascript
+# Personal Portfolio Webpage Template
+## Frontend Project
+this is my first frontend project work purly made using **HTML** and **CSS**.
